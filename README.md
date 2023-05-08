@@ -16,7 +16,7 @@ Upon installing all the libraries, go under **\CS5660Bot** and create a **.env**
 
 **OPENAI_API_TOKEN=**
 
-**DISCORD_TOKEN=*
+**DISCORD_TOKEN=**
 
 Lastly, run **python run.py** to start the program, and your own discord bot should be launched and is waiting for your input.
 
