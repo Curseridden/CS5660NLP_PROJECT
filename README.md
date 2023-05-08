@@ -20,4 +20,4 @@ Upon installing all the libraries, go under **\CS5660Bot** and create a **.env**
 
 Lastly, run **python run.py** to start the program, and your own discord bot should be launched and is waiting for your input.
 
-If you have not created a discord bot, follow the instruction on #ChatGPT Tutorial - Create a Chatbot for Discord with Python(https://www.youtube.com/watch?v=wdgVv4UP08c) from 1:24 to 3:58
+If you have not created a discord bot, follow the instruction on (ChatGPT Tutorial - Create a Chatbot for Discord with Python)[https://www.youtube.com/watch?v=wdgVv4UP08c] from 1:24 to 3:58
