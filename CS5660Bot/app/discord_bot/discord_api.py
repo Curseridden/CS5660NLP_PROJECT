@@ -29,7 +29,7 @@ class MyClient(discord.Client):
 
         if (command == "/judge"):
             bot_response = chatbot_response(prompt=user_message)
-            await message.channel.send(f"Answer: {bot_response}")
+            await message.channel.send(f"The input sentence is a{bot_response} sentence.")
 
 
 intents = discord.Intents.default()
